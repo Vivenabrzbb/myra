@@ -1,1 +1,1 @@
-{ "name": "GoQuid", "version": "1.0.0", "main": "server.js", "dependencies": {} }
+{"name": "myra", "version": "1.0.0", "main": "server.js", "scripts": {"start": "vercel dev" ,"test": "echo 'Error: no test specified' && exit 1"}, "dependencies": {"express": "latest", "axios": "latest", "cors": "latest"}}
