@@ -1,0 +1,1 @@
+CREATE TABLE payments (id INT PRIMARY KEY, amount DECIMAL(10, 2), status VARCHAR(20));
