@@ -1,0 +1,1 @@
+{\n  "functions": {\n    "api/hello.js": {\n      "runtime": "nodejs14.x"\n    }\n  }\n}
